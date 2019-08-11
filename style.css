@@ -1,5 +1,36 @@
 body {
+  text-align:center;
   width: 100%;
   height: 100%;
   margin: 0;
+}
+h1{
+  color:black;
+
+}
+
+a {
+  padding: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 15px;
+}
+
+p#featured-property{
+  width:800px;
+  text-align: center;
+  font-size: 30px;
+}
+
+#details {
+  display:inline;
+}
+
+
+div{
+  text-align: center;
+  background-color: green;
+  width: 25%;
 }
