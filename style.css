@@ -26,11 +26,9 @@ p#featured-property{
 
 #details {
   display:block;
+  float: center;
 }
 
-div#details {
-  float: left;
-}
 
 
 div{
