@@ -25,7 +25,7 @@ p#featured-property{
 }
 
 #details {
-  display:block;
+  display:inline-block;
   float: center;
 }
 
