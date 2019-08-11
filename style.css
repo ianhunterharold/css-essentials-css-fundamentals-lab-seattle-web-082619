@@ -24,3 +24,6 @@ p#featured-property{
   font-size: 30px;
 }
 
+#details {
+  display:block;
+}
